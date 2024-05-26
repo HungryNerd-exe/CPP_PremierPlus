@@ -1,27 +1,13 @@
+//********** Premier Plus 6th Edition **************
+//********** Programming Exercise 2.4 **************
+
 // Write a program that asks the user to enter his or her age.The program then should
 // display the age in months:
 
 // Enter your age: 29
 // Your age in months is 384.
 
-// Program name : exe4.cpp
-// Description  : Age in months
-// Notes        :
-// Date         : 25-May-2024
-
-// ***********************************
-// headers
-// ***********************************
 #include <iostream>
-
-// ***********************************
-// global variables
-// ***********************************
-
-// ***********************************
-// function declaration
-// ***********************************
-
 
 int main()
 {
@@ -33,7 +19,3 @@ int main()
 
     return 0;
 }
-
-// ***********************************
-// Program End
-// ***********************************
